@@ -37,7 +37,10 @@
 
   ![tk-setting](https://github.com/user-attachments/assets/070d7fe0-d2ba-4499-a2fb-892d7ddf0819)
 
-5. Read and edit the `config.ini` file.
+5. Open `TKB Config Editor` to edit `config.ini` (Hover on label to see the instructions)
+
+ ![config_editor_en](https://github.com/user-attachments/assets/a6cf4f19-5f62-4ec2-b7f7-47beb3681a6e)
+
 6. Close `Dota 2`, then open `ThreeKingdomsBOT`, press `Start`, press `Minimize` and release the mouse (Hotkeys Start `Ctrl + S`, Stop `Ctrl + Q`).
   - ![play](https://github.com/user-attachments/assets/b824d9c0-8eaa-478b-8644-f0cd547b9be4)
 ---
@@ -77,7 +80,10 @@ Three Kingdoms Bot là một công cụ mạnh mẽ được thiết kế để 
 
   ![tk-setting](https://github.com/user-attachments/assets/070d7fe0-d2ba-4499-a2fb-892d7ddf0819)
 
-5. Đọc và sửa file `config.ini` 
+5. Sử dụng `TKB Config Editor` để sửa `config.ini` (Đưa con trỏ chuột vào từng mục để xem hướng dẫn)
+
+ ![config_editor_vi](https://github.com/user-attachments/assets/adbe3664-7a08-4438-9a34-3e88dc91b1b8)
+
 6. Tắt `Dota 2` sau đó mở `ThreeKingdomsBOT`, nhấn `Start`, nhấn `Minimize` và buông chuột (Hotkeys for Start `Ctrl + S`, Stop `Ctrl + Q`).
  - ![play](https://github.com/user-attachments/assets/b824d9c0-8eaa-478b-8644-f0cd547b9be4)
 ---
