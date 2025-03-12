@@ -25,6 +25,7 @@
   ![game](https://github.com/user-attachments/assets/2daa61be-c515-4e70-8ebb-9ff601d10f09)
 
 2. Open `Dota 2 -> Settings -> Hotkeys` and delete the hotkeys in the red-highlighted areas as shown below.
+(Make sure none of these keys are assigned z, g, x, t, c, v, f2, b, n, k, f7, f8, f3, f4, f5)
 
   ![hotkeys-1](https://github.com/user-attachments/assets/6fefc260-07c3-4637-becc-4bc0743462cc)
   ![hotkeys-2](https://github.com/user-attachments/assets/62a6598d-109a-40f1-aa31-c7286bcc9093)
@@ -68,7 +69,7 @@ Three Kingdoms Bot là một công cụ mạnh mẽ được thiết kế để 
   ![game](https://github.com/user-attachments/assets/2daa61be-c515-4e70-8ebb-9ff601d10f09)
 
 2. Mở `Dota 2 -> Settings -> Hotkeys` sau đó xóa các hotkeys ở các vùng mình tô đỏ như hình bên dưới.
-
+  (Đảm bảo các phím sau không được gán z, g, x, t, c, v, f2, b, n, k, f7, f8, f3, f4, f5)
   ![hotkeys-1](https://github.com/user-attachments/assets/6fefc260-07c3-4637-becc-4bc0743462cc)
   ![hotkeys-2](https://github.com/user-attachments/assets/62a6598d-109a-40f1-aa31-c7286bcc9093)
 
